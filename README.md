@@ -1,4 +1,4 @@
-# Simple age verification plugin for Wordpress
+# Simple age verification plugin for WordPress
 
 ## Installation
 
